@@ -1,2 +1,2 @@
-# Imers-o-FrontEnd_Alura-Spotify
-# Imers-oFrontEndAlura-Spotify
+# Imersão FrontEnd Alura-Spotify
+
