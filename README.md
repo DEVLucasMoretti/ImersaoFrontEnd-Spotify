@@ -1,4 +1,4 @@
-<h1>Réplica daPágina Principal do Spotify</h1>
+<h1>Réplica daPágina Principal do Spotify 🎶🎙️🎶 </h1>
 Este projeto é resultado da minha participação na imersão Front End da Alura, onde pude aprimorar minhas habilidades em HTML, CSS e JavaScript. Durante o curso, o desafio proposto foi a criação de uma réplica da página principal do Spotify, utilizando as tecnologias mencionadas.
 
 <h1>Descrição do Projeto</h1>
