@@ -14,3 +14,4 @@ O objetivo principal desta iniciativa foi a aplicação prática de conceitos fu
 </li>
 </ul>
 
+![image](https://github.com/DEVLucasMoretti/ImersaoFrontEnd-Spotify/assets/143361821/4c6e772b-b1bd-42b1-a6d8-ca85ebd48051)
